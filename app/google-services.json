@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "568787414510",
+    "firebase_url": "https://priyomukh-e9ea8.firebaseio.com",
+    "project_id": "priyomukh-e9ea8",
+    "storage_bucket": "priyomukh-e9ea8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568787414510:android:1733f7a72302b762",
+        "android_client_info": {
+          "package_name": "com.antu.bazinga.priyomukh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568787414510-obon73v8t82l4hv9rrb26covicqk4m5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.antu.bazinga.priyomukh",
+            "certificate_hash": "52597ba3ab88743d7c9f63e19859b261a5f9a1f5"
+          }
+        },
+        {
+          "client_id": "568787414510-ekmt2v30koslvfuv44ou2nmqkif2oe9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiF-VT3iuhWRx01aIw6K_mC8jhUMy5GE0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568787414510-ekmt2v30koslvfuv44ou2nmqkif2oe9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
